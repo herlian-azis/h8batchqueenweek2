@@ -1,5 +1,5 @@
 let nama = "herlian"
-let peran = "Penyihir"  // Peran harus di awali dengan huruf besar
+let peran = "Ksatria"  // Peran harus di awali dengan huruf besar
 
 if (nama ===""){
     console.log("Nama harus diisi!")
